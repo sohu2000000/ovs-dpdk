@@ -1,0 +1,1 @@
+cmd_/home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcs /home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
