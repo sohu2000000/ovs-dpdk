@@ -1,1 +1,0 @@
-cmd_/home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/rte_kni.ko := cp /home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/rte_kni.ko.unsigned /home/test/dpdk-16.11/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/rte_kni.ko
